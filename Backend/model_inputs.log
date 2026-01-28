@@ -1,0 +1,41 @@
+2026-01-28 14:29:39 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-28 14:29:39 - [33mPress CTRL+C to quit[0m
+2026-01-28 14:29:39 -  * Restarting with stat
+2026-01-28 14:29:41 -  * Debugger is active!
+2026-01-28 14:29:41 -  * Debugger PIN: 896-414-067
+2026-01-28 14:31:06 - 127.0.0.1 - - [28/Jan/2026 14:31:06] "GET / HTTP/1.1" 200 -
+2026-01-28 14:31:06 - 127.0.0.1 - - [28/Jan/2026 14:31:06] "GET /static/js/map.js HTTP/1.1" 200 -
+2026-01-28 14:31:06 - 127.0.0.1 - - [28/Jan/2026 14:31:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-01-28 14:31:06 - 127.0.0.1 - - [28/Jan/2026 14:31:06] "[36mGET /static/js/validation.js HTTP/1.1[0m" 304 -
+2026-01-28 14:38:28 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-28 14:38:28 - [33mPress CTRL+C to quit[0m
+2026-01-28 14:38:28 -  * Restarting with stat
+2026-01-28 14:38:29 -  * Debugger is active!
+2026-01-28 14:38:29 -  * Debugger PIN: 896-414-067
+2026-01-28 14:38:35 - 127.0.0.1 - - [28/Jan/2026 14:38:35] "GET / HTTP/1.1" 200 -
+2026-01-28 14:38:35 - 127.0.0.1 - - [28/Jan/2026 14:38:35] "[36mGET /static/js/validation.js HTTP/1.1[0m" 304 -
+2026-01-28 14:38:35 - 127.0.0.1 - - [28/Jan/2026 14:38:35] "GET /static/js/map.js HTTP/1.1" 200 -
+2026-01-28 14:38:35 - 127.0.0.1 - - [28/Jan/2026 14:38:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-01-28 14:38:45 - 127.0.0.1 - - [28/Jan/2026 14:38:45] "GET / HTTP/1.1" 200 -
+2026-01-28 14:38:45 - 127.0.0.1 - - [28/Jan/2026 14:38:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-01-28 14:38:45 - 127.0.0.1 - - [28/Jan/2026 14:38:45] "[36mGET /static/js/map.js HTTP/1.1[0m" 304 -
+2026-01-28 14:38:45 - 127.0.0.1 - - [28/Jan/2026 14:38:45] "[36mGET /static/js/validation.js HTTP/1.1[0m" 304 -
+2026-01-28 14:59:41 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-28 14:59:41 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-28 14:59:41 - INFO -  * Restarting with stat
+2026-01-28 14:59:43 - WARNING -  * Debugger is active!
+2026-01-28 14:59:43 - INFO -  * Debugger PIN: 896-414-067
+2026-01-28 15:00:45 - INFO -  * Detected change in 'C:\\Users\\sheri\\land-price-predictor\\Backend\\app.py', reloading
+2026-01-28 15:00:45 - INFO -  * Restarting with stat
+2026-01-28 15:00:53 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-28 15:00:53 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-28 15:03:21 - INFO - 127.0.0.1 - - [28/Jan/2026 15:03:21] "GET / HTTP/1.1" 200 -
+2026-01-28 15:03:21 - INFO - 127.0.0.1 - - [28/Jan/2026 15:03:21] "GET /static/js/form.js HTTP/1.1" 200 -
+2026-01-28 15:07:54 - INFO - Model input: {'property_id': 0, 'location_name': 'Kakkanad', 'taluk': 'Kanayannur', 'village': 'Thrikkakara', 'latitude': 10.015, 'longitude': 76.341, 'land_area_cents': 12.5, 'land_type': 'Residential', 'distance_to_school_km': 0.8, 'distance_to_airport_km': 22.0, 'distance_to_railway_station_km': 5.0, 'distance_to_hospital_km': 1.2, 'distance_to_medical_college_km': 1.2, 'distance_to_bus_stop_km': 0.3, 'distance_to_market_km': 1.0, 'log_land_area': 2.6026896854443837, 'accessibility_score': 27.8}
+2026-01-28 15:07:54 - INFO - Prediction: 20.266086746031764
+2026-01-28 15:07:54 - INFO - 127.0.0.1 - - [28/Jan/2026 15:07:54] "POST / HTTP/1.1" 200 -
+2026-01-28 15:07:54 - INFO - 127.0.0.1 - - [28/Jan/2026 15:07:54] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
