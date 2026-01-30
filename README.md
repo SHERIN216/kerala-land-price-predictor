@@ -28,13 +28,14 @@ This web application predicts the estimated price of land in Kerala based on use
 
 ## Screenshots
 
-### Input Form
-![Land Price Form](assets/form.png)
-![Land Price Form](assets/formdata.png)
+## Screenshots
 
+### Input Form
+![Land Price Form](assets/form.jpg)
+![Form Data Entered](assets/formdata.jpg)
 
 ### Predicted Result
-![Prediction Result](assets/prediction.png)
+![Prediction Result](assets/prediction.jpg)
 
 
 
