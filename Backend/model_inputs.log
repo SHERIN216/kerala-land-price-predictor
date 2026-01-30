@@ -48,3 +48,14 @@
 2026-01-30 14:14:38 - INFO - 127.0.0.1 - - [30/Jan/2026 14:14:38] "GET / HTTP/1.1" 200 -
 2026-01-30 14:14:38 - INFO - 127.0.0.1 - - [30/Jan/2026 14:14:38] "GET /static/js/form.js HTTP/1.1" 200 -
 2026-01-30 14:14:38 - INFO - 127.0.0.1 - - [30/Jan/2026 14:14:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-30 14:34:06 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-30 14:34:06 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-30 14:37:17 - INFO - 127.0.0.1 - - [30/Jan/2026 14:37:17] "GET / HTTP/1.1" 200 -
+2026-01-30 14:37:17 - INFO - 127.0.0.1 - - [30/Jan/2026 14:37:17] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+2026-01-30 14:37:20 - INFO - 127.0.0.1 - - [30/Jan/2026 14:37:20] "GET / HTTP/1.1" 200 -
+2026-01-30 14:37:20 - INFO - 127.0.0.1 - - [30/Jan/2026 14:37:20] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+2026-01-30 14:46:28 - INFO - Model input: {'property_id': 0, 'location_name': 'Kochi', 'taluk': 'Ernakulam', 'village': 'Vyttila', 'latitude': 9.9681, 'longitude': 76.2897, 'land_area_cents': 500.0, 'land_type': 'Residential', 'distance_to_school_km': 1.2, 'distance_to_airport_km': 2.3, 'distance_to_railway_station_km': 1.1, 'distance_to_hospital_km': 2.5, 'distance_to_medical_college_km': 1.4, 'distance_to_bus_stop_km': 2.3, 'distance_to_market_km': 1.0, 'log_land_area': 6.2166061010848646, 'accessibility_score': 4.6}
+2026-01-30 14:46:28 - INFO - Prediction: 20.418297552910058
+2026-01-30 14:46:28 - INFO - 127.0.0.1 - - [30/Jan/2026 14:46:28] "POST / HTTP/1.1" 200 -
+2026-01-30 14:46:28 - INFO - 127.0.0.1 - - [30/Jan/2026 14:46:28] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
