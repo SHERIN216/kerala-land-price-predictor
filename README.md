@@ -26,6 +26,17 @@ This web application predicts the estimated price of land in Kerala based on use
 - **Features:** location, land type, area, distance to schools, hospitals, airports, markets.
 
 
+## Screenshots
+
+### Input Form
+![Land Price Form](assets/form.png)
+![Land Price Form](assets/formdata.png)
+
+
+### Predicted Result
+![Prediction Result](assets/prediction.png)
+
+
 
 ---
 
